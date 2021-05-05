@@ -1,0 +1,1 @@
+html_sanitizer==1.9.1
